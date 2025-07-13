@@ -1,0 +1,52 @@
+{
+	"attachments": [],
+	"bodies": [
+		{
+			"models": [
+				{
+					"name": "neucar",
+					"polys": 600,
+					"verts": 314
+				}
+			],
+			"name": "studio"
+		}
+	],
+	"colorable": false,
+	"controllers": [],
+	"date": 1456012865,
+	"events": [],
+	"id": 1414743113,
+	"md5": "36a44b938098e3c6bea714c701462a4f",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
+	"name": "D:\\MilkShape3d\\neucar\\neucar.mdl",
+	"preview": false,
+	"readme": false,
+	"seq_groups": "1",
+	"sequences": [
+		{
+			"fps": 30.000000,
+			"frames": 101,
+			"name": "w_idle"
+		}
+	],
+	"size": 84680,
+	"skeleton": [
+		{
+			"name": "Bone",
+			"parent": -1
+		}
+	],
+	"skins": 1,
+	"t_model": false,
+	"textures": [
+		{
+			"flags": 0,
+			"height": 256,
+			"name": "NEUCAR1A.bmp",
+			"width": 256
+		}
+	],
+	"version": 10
+}

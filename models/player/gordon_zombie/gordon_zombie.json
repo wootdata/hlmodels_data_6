@@ -68,6 +68,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -110,6 +111,7 @@
 			"type": 32
 		}
 	],
+	"date": 1592849453,
 	"events": [
 		{
 			"event": 2001,
@@ -219,7 +221,11 @@
 	],
 	"id": 1414743113,
 	"md5": "69238db3ac89576ff0fbd944b2b1d562",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\gordon\\gordon13.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

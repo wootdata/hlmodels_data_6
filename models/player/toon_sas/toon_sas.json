@@ -33,6 +33,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -75,6 +76,7 @@
 			"type": 32
 		}
 	],
+	"date": 1625598093,
 	"events": [
 		{
 			"event": 2001,
@@ -184,7 +186,11 @@
 	],
 	"id": 1414743113,
 	"md5": "f34d8954d1d8a754610b3858726481ec",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "toon_sas.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

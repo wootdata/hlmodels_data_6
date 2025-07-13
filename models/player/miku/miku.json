@@ -63,6 +63,7 @@
 			"name": "gatiito_sc"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -97,6 +98,7 @@
 			"type": 8
 		}
 	],
+	"date": 1466981836,
 	"events": [
 		{
 			"event": 5011,
@@ -220,7 +222,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0a47ecb7a23b06958e601a477344a982",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "GS_Miku_1.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

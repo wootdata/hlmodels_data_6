@@ -28,6 +28,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -62,6 +63,7 @@
 			"type": 8
 		}
 	],
+	"date": 1563764614,
 	"events": [
 		{
 			"event": 2001,
@@ -171,7 +173,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a86cc890a5f515bbbfb07161c0f3ceae",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Program Files (x86)\\HellHL\\valve\\models\\pack\\eiditng\\player\\gh>",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

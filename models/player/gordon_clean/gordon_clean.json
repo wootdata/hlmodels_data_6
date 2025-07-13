@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 12,
@@ -97,6 +98,7 @@
 			"type": 8
 		}
 	],
+	"date": 1585529612,
 	"events": [
 		{
 			"event": 2001,
@@ -206,7 +208,11 @@
 	],
 	"id": 1414743113,
 	"md5": "4cbe45eb88c2aa0db7a0ae3327d9f519",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "cl_suit.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1514528500,
 	"events": [
 		{
 			"event": 2001,
@@ -195,7 +197,11 @@
 	],
 	"id": 1414743113,
 	"md5": "107be6487ec26c34eda6373310a35590",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\ELIZABETH MENA\\Favorites\\Desktop\\player\\zombie.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

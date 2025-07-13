@@ -53,6 +53,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -87,6 +88,7 @@
 			"type": 8
 		}
 	],
+	"date": 1435073179,
 	"events": [
 		{
 			"event": 2001,
@@ -196,7 +198,11 @@
 	],
 	"id": 1414743113,
 	"md5": "dea2aab4bbb14727fd6cfdaf9f527da0",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "dm_Walter.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

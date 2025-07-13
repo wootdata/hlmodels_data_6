@@ -38,6 +38,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -80,6 +81,7 @@
 			"type": 32
 		}
 	],
+	"date": 1190025814,
 	"events": [
 		{
 			"event": 2001,
@@ -189,7 +191,11 @@
 	],
 	"id": 1414743113,
 	"md5": "15845c208d233208520ba4df2cb44871",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\3d\\assassin\\player.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

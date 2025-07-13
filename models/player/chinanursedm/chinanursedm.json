@@ -63,6 +63,7 @@
 			"name": "studio"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -97,6 +98,7 @@
 			"type": 8
 		}
 	],
+	"date": 1626835543,
 	"events": [
 		{
 			"event": 2001,
@@ -206,7 +208,11 @@
 	],
 	"id": 1414743113,
 	"md5": "3da1025008333019aead6e94b5d628fb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "barney.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

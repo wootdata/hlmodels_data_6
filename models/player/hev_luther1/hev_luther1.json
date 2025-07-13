@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1578444187,
 	"events": [
 		{
 			"event": 2001,
@@ -200,7 +202,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b13c39a428c63134880eb77203a0a9e2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\citzenhev\\citzenhev.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

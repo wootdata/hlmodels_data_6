@@ -38,6 +38,7 @@
 			"name": "i_love_ezequiel-TM"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 8,
@@ -72,6 +73,7 @@
 			"type": 8
 		}
 	],
+	"date": 1578468602,
 	"events": [
 		{
 			"event": 2001,
@@ -181,7 +183,11 @@
 	],
 	"id": 1414743113,
 	"md5": "5db794cd57300cc3cbb99b4ef63b2e33",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "Gman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

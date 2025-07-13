@@ -43,6 +43,7 @@
 			"name": "head"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 14,
@@ -77,6 +78,7 @@
 			"type": 8
 		}
 	],
+	"date": 1689304745,
 	"events": [
 		{
 			"event": 2001,
@@ -312,7 +314,11 @@
 	],
 	"id": 1414743113,
 	"md5": "34f5a8e844a86c5037fee2ded5008da6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "gordonweedman.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

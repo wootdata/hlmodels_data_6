@@ -169,6 +169,7 @@
 	"md5": "2d1d8a32b59496717795836f567b7a20",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 0,
 	"name": "cloak.mdl",
 	"preview": true,
 	"readme": false,

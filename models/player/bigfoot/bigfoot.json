@@ -180,6 +180,7 @@
 	"md5": "4d77ee1a01726f1ac563200c31a49c35",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "player/barney/barney.mdl",
 	"preview": true,
 	"readme": false,

@@ -250,6 +250,7 @@
 	"md5": "a7083f06850af447d804f90578af1a42",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "tfc/models/player/demo/demo.mdl",
 	"preview": true,
 	"readme": false,

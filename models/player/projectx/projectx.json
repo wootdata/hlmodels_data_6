@@ -175,6 +175,7 @@
 	"md5": "936033e4aef877faeb3acd4b013f5c5a",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/ProjectX/ProjectX.mdl",
 	"preview": true,
 	"readme": false,

@@ -1,0 +1,21 @@
+AlienSlave
+
+Modified and converted to work as XDM player model
+For X-Half-Life: Deathmatch 3.0.x.x
+Please do not redistribute separately.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aslave_v2
+Source Model Hash : 6582f37e00fb7fe3c5e9ffc24bdb5b3e
+Source Model Date : 1491990943 (2017/04/12)
+
+Ported Model Name : aslave_v2sc
+Ported Model Hash : 8a8b11c5718f0322720ba8111ebba1c6
+Ported Model Date : 1752491380 (2025/07/14)

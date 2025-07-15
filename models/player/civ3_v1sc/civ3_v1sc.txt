@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : civ3
+Source Model Hash : baf11fb2f69848aad1f73a2d24343548
+Source Model Date : 1268287591 (2010/03/10)
+
+Ported Model Name : civ3_v1sc
+Ported Model Hash : 174e56dd62208a8539afa9fa482b4387
+Ported Model Date : 1752491477 (2025/07/14)

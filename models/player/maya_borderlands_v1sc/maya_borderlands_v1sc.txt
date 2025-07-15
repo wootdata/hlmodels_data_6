@@ -1,0 +1,20 @@
+Thanks for downloading this skin.
+Just drag the "ts" folder to the valve folder what contains the hl.exe executable.
+Have fun. :)
+
+Peace-Le-Walker
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : maya_borderlands
+Source Model Hash : be1af2361af8db320d35cd4e66a45a19
+Source Model Date : 1481247700 (2016/12/08)
+
+Ported Model Name : maya_borderlands_v1sc
+Ported Model Hash : 93e3b6421af8dfe3aaf7e608fddd1b37
+Ported Model Date : 1752491994 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : purple_sister
+Source Model Hash : 11ce550915ae5ff7fd0f45118e33b208
+Source Model Date : 1546391557 (2019/01/01)
+
+Ported Model Name : purple_sister_v1sc
+Ported Model Hash : e85ebfe425d30e570b76bd5c585da03c
+Ported Model Date : 1752492173 (2025/07/14)

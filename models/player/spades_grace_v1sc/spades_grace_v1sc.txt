@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spades_grace
+Source Model Hash : 141c2d7d700491278fdce06edc7132c4
+Source Model Date : 1269932874 (2010/03/30)
+
+Ported Model Name : spades_grace_v1sc
+Ported Model Hash : 773e348d61b77e7bd1be34b95a813d02
+Ported Model Date : 1752492304 (2025/07/14)

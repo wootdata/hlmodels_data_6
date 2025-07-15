@@ -1,0 +1,32 @@
+Credit:
+ modeling by milchio
+
+ smd convert by takedeppo.50cal ....(^^;)b yay
+
+///////////////////////////////////////////////////////////////////
+
+GTASA　八雲藍スキン
+ダウンロードありがとうございます。
+今のところ顔は3種類あります。好きなものをtxdworkshopなどで"rface"と置き換えてください
+また、zun帽の札はhuda.pngに該当してます。左右のスペースに好きな絵や文字を書いてtxd(ry で"huda"と置き換えてください
+
+6/12　目を修正
+
+改変など自由。名前出してくれるとニヤニヤします
+みるちお屋
+http://milcho.blog55.fc2.com/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_ransyama
+Source Model Hash : 709cd4248dea0bc35a61b47b337fa42d
+Source Model Date : 1475494673 (2016/10/03)
+
+Ported Model Name : touhou_ransyama_v1sc
+Ported Model Hash : 87ee615f6b94a0edd99847c8b6ddee21
+Ported Model Date : 1752492443 (2025/07/14)

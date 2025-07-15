@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_umbrella_hunk2
+Source Model Hash : 75eace36c9331b2fbd320fa563de5f99
+Source Model Date : 1579695621 (2020/01/22)
+
+Ported Model Name : re_umbrella_hunk2_v1sc
+Ported Model Hash : c01477fbf6af4168f0f9b451033eafbd
+Ported Model Date : 1752492214 (2025/07/14)

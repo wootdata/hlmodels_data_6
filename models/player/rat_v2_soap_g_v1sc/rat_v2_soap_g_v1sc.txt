@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rat_v2_soap_g
+Source Model Hash : 61345370cdee8045dcb0e8722a89b42d
+Source Model Date : 1649749086 (2022/04/12)
+
+Ported Model Name : rat_v2_soap_g_v1sc
+Ported Model Hash : 5ea6efa9970fe5edb621f8556ff7c431
+Ported Model Date : 1752492188 (2025/07/14)

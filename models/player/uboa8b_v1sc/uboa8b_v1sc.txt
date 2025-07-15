@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uboa8b
+Source Model Hash : d488371bcc94521fb844f18e58b8544e
+Source Model Date : 1264444360 (2010/01/25)
+
+Ported Model Name : uboa8b_v1sc
+Ported Model Hash : 418cb134d5b02da4052bad0d3bc7beb0
+Ported Model Date : 1752492468 (2025/07/14)

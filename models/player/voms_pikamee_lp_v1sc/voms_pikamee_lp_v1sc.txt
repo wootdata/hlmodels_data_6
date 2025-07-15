@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : voms_pikamee_lowpoly
+Source Model Hash : 41457e256657d16fb80d0adf15796d34
+Source Model Date : 1641333628 (2022/01/04)
+
+Ported Model Name : voms_pikamee_lp_v1sc
+Ported Model Hash : 24f30b12aa43296ac4b2bdbeac9a796f
+Ported Model Date : 1752492496 (2025/07/14)

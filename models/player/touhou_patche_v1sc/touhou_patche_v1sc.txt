@@ -1,0 +1,58 @@
+Credit:
+ Modeling by kita
+
+ .smd convert by takedeppo.50cal ....(^^;)b yay
+
+///////////////////////////////////////////////////////////////////
+ＧＴＡＳＡ向けスキンＭＯＤ
+
+パチュリー・ノーレッジ
+
+制作：kita
+
+スキン制作８４作目。
+東方紅魔郷より、知識と日陰のラクトガール、パチュリーさんです。
+
+動かない大図書館の割に黄昏格ゲーに出演してはっちゃけてたりする人。喘息なんてなかった。
+萃夢想のヴワル魔法図書館のアレンジは結構好きです。原曲ももちろん好きですがねｗ
+
+ところで、英語だと名前のつづりは"Patchouli Knowledge"らしいです。
+"パチュリー"がやたらややこしいですね。
+
+-----------------------------------------------------------------------
+
+DFFは２種。「patche.dff」が通常、「patcheglass.dff」はメガネ差分です。
+
+TXDは、元からメガネ用テクスチャを入れていますので表情差分のみ、12種です。
+表情は同梱のpngをご覧ください。
+
+NPCのアルファの仕様上、メガネのレンズは縁以外完全に透過しています。
+レンズを見せたかったりサングラスにするとかの場合は、bmpに入れている「patcheglassa.bmp」の
+黒い部分を明るくしてTXDWorkshopでアルファを置き換えてください。
+
+いつも通り、mqoファイルとgmaxファイル同梱です。
+なんなりとお使いください。
+
+-----------------------------------------------------------------------
+
+東方原作者の神主様と、ＧＴＡSAの生みの親・Ｒｏｃｋｓｔａｒ様に最大のリスペクトを。
+
+改変や動画使用はＯＫです。
+その際、強制はしませんが、下記のブログにでも知らせてくれると嬉しいです。
+→http://harumitama.blog24.fc2.com/
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_patche
+Source Model Hash : 05bfc050b0c585109c24ab3c3eae7a21
+Source Model Date : 1471747111 (2016/08/20)
+
+Ported Model Name : touhou_patche_v1sc
+Ported Model Hash : 039eff697fc28243d6950f0eae631cb5
+Ported Model Date : 1752492442 (2025/07/14)

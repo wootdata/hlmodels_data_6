@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aamedic_bf2142
+Source Model Hash : 4643331a84bfb3ce16e6fb175ab848f2
+Source Model Date : 1230547671 (2008/12/29)
+
+Ported Model Name : aamedic_bf2142_v1sc
+Ported Model Hash : e3edfd9f9b89fd2ea202cfb74ee09580
+Ported Model Date : 1752491326 (2025/07/14)

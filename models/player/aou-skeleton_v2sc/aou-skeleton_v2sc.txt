@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aou-skeleton_v2
+Source Model Hash : 46fba337aef47fc6787ac9f2811eb47a
+Source Model Date : 1583482410 (2020/03/06)
+
+Ported Model Name : aou-skeleton_v2sc
+Ported Model Hash : e0107e70f76d72c9a01a21970e382542
+Ported Model Date : 1752491364 (2025/07/14)

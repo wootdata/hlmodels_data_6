@@ -1,0 +1,32 @@
+Skinner: SlimReapeR
+Skin Name: Species
+Model Used: Punisher (Modified by SlimReapeR)
+
+This model should only be used by members of the Species clan. Have this skin installed
+to see them play!
+
+Installation of Plugin
+
+Create a folder called species in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+SlimReapeR  Http://www.slimreaper.co.uk
+	    mail: slimreaper@slimreaper.co.uk
+
+Clan Species webpage http://www.speciesclan.atfreeweb.com/
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : species_v2
+Source Model Hash : 5097832158d0eb409d05aa0b9432c78b
+Source Model Date : 1583371766 (2020/03/04)
+
+Ported Model Name : species_v2sc
+Ported Model Hash : 4ef96bf6cb0fa1ba0cdd78b132b1ce51
+Ported Model Date : 1752492305 (2025/07/14)

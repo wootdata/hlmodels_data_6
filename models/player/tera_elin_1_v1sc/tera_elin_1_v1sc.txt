@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tera_elin_1
+Source Model Hash : cad4d113feb009a995783b50a2feb9c8
+Source Model Date : 1469462916 (2016/07/25)
+
+Ported Model Name : tera_elin_1_v1sc
+Ported Model Hash : 31022ac4327e7b2ba47345478287bec8
+Ported Model Date : 1752492400 (2025/07/14)

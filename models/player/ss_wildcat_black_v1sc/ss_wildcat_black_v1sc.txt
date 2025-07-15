@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ss_wildcat_black
+Source Model Hash : 886abf1c4d8391df8d9136668cf46bd8
+Source Model Date : 1666548006 (2022/10/23)
+
+Ported Model Name : ss_wildcat_black_v1sc
+Ported Model Hash : d479b79b28b4d33704848ec1f7a43ca6
+Ported Model Date : 1752492322 (2025/07/14)

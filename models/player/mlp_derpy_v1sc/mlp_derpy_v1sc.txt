@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_derpy
+Source Model Hash : fe9c8df3e5177ceaacddfae1a8e82c7d
+Source Model Date : 1491504421 (2017/04/06)
+
+Ported Model Name : mlp_derpy_v1sc
+Ported Model Hash : c246c988f888d8f5f9143714313b50f5
+Ported Model Date : 1752492035 (2025/07/14)

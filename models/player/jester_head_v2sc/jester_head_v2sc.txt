@@ -1,0 +1,30 @@
+                           Jester_Head
+
+This model has 6 new animations (There not perfect!)
+idle, deep idle, look idle, gutshot, headshot and deadsitting.
+It also has team colours, the suit and the eyes.
+It is based in the PUNISHER model by "Evil bastard" Collins.
+
+Thanks to jeStyr{CC} for the inspiration!
+
+   INSTALLATION:  UNZIP INTO  halflife\valve\models\player\Jester_Head folder
+
+
+         FYA    MARQUIS for skins (m.haly@cwcom.net) 5/2/00
+ 
+              http://www.hlskins.free-online.co.uk/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jester_head_v2
+Source Model Hash : 7b41813fa134241c1a459325c6e0ff25
+Source Model Date : 1590871331 (2020/05/30)
+
+Ported Model Name : jester_head_v2sc
+Ported Model Hash : 90b5161f74fda946491c0f0936b6abeb
+Ported Model Date : 1752491861 (2025/07/14)

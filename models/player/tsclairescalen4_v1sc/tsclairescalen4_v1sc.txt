@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tsclairescalennohflat
+Source Model Hash : f98d5b119191cc76dac5881b66180dae
+Source Model Date : 1615994484 (2021/03/17)
+
+Ported Model Name : tsclairescalen4_v1sc
+Ported Model Hash : 824d5244db1b35eb4e32c772ec7a4b8b
+Ported Model Date : 1752492462 (2025/07/14)

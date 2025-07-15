@@ -1,0 +1,78 @@
+Model name:  TRINITYrage
+Author:   ~A.u.s.t.i.n.
+Released:  Nov. 13th 1999
+____________________
+This is an edited model previously created by Neal 'Guplik' Corbett.
+I editied this model with further perfection and detail for the true matrix
+ fan.  I fixed, added, and edited multiple parts of the model which u can
+easily notice form Guplink's  version. 
+-remodeled breasts
+-adjusted spine formation
+-skinned the pants, boots, buckles
+-added a 3D hair srand in front of her face
+-remodeled boots to look femenine rather than square
+-added chromed buckles to boots
+-fixed the allingment of the face skin
+-fixed the nostrils 
+-fixed the skin colour strand that appeared on the back of her head
+-skinned the shirt  (it was just a black colour like the pants)
+-lightened the belt skin
+
+____________________
+This models was edited for the upcoming MOD " MATRIX HALF-LIFE "
+However this is the Deathmatch version.
+It includes the following new custom animations:
+(the jump and the long jump animations are exact replicas straight out 
+of the movie!!!)
+-ref_aim_mp5
+-ref_aim_shotgun
+-ref_aim_guass
+-crouch_aim_handgun
+-crouch_aim_python
+-crouch_idle
+-player_jump
+-player_longjump
+-death_simple
+-death_backwards
+
+***Special thanks go out to Scarecrow and the many many people that
+helped me test this model in servers every so often. Without 
+ScareCrow's gidance this model would not have been made possible.***
+Thats all, hope you enjoy this model as much as I did creating it.
+I will now continue my work on Morpheus, and Neo. 
+The Matrix has you.............
+
+Got questions suggestions, or comments e-mail me at:
+                                        manny@cgocable.net
+~A.u.s.t.i.n.
+
+
+
+July, 2008:
+
+-Added custom Matrix-like animations that were with the DM version of this model.
+-Adjusted skin to compensate for "UV-shift."
+
+That is all
+
+This particular model has been around a LONG time - HL Deathmatch, as well as Sven Coop. Therefore, I see no reason to take credit for something as simple as adding animations. 
+
+
+Jan, 2009:
+
+Unfortunately, SC 4.0b isn't always compatible with all custom animations - this version has standard SC 4.0b animations. 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : trinityrage_v2
+Source Model Hash : 379519bc583b4328e808f391869862e0
+Source Model Date : 1591338528 (2020/06/04)
+
+Ported Model Name : trinityrage_v2sc
+Ported Model Hash : 6b36eb1d4e4fd5c2136eda9214a65fbf
+Ported Model Date : 1752492458 (2025/07/14)

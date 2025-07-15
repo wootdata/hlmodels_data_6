@@ -1,0 +1,16 @@
+released 3/26/99 - Version 1.01 (fixed palette problem)~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0AModel name: Silencer~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0AAuthor: NSi [ nsi@artmaze.com ]~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0AModel homepage: http://www.artmaze.com/nsi~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0AInstallation: Make a folder in Sierra\Half-life\valve\models\player named "Silencer" (without quotes). Copy all files contained in this Zip into it (Silencer.mdl, Silencer.bmp, Silencer.txt)~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A------------------------------------------------------------~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0AConstruction~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E09~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E09Poly count: 568 tris~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E09Skins: 1 DM_base with team coloring~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E0D~7E7E7E7E7E7E7E0A~7E7E7E7E7E7E7E09Animation
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kain-9
+Source Model Hash : ac10f1c688409ec48e6e3503602ae610
+Source Model Date : 1263490960 (2010/01/14)
+
+Ported Model Name : kain-9_v1sc
+Ported Model Hash : 9bd613ea64b0d178192300c2396d35f3
+Ported Model Date : 1752491869 (2025/07/14)

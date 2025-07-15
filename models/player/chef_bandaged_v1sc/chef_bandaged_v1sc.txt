@@ -1,0 +1,16 @@
+For Sven-coop 5.0, converted and fix by Python.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chef_bandaged
+Source Model Hash : 5071fa808b0682114e2503608bad5073
+Source Model Date : 1509914841 (2017/11/05)
+
+Ported Model Name : chef_bandaged_v1sc
+Ported Model Hash : a987c645dff1c92f9e07a0f13cf195cd
+Ported Model Date : 1752491467 (2025/07/14)

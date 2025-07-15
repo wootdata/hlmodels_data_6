@@ -1,0 +1,17 @@
+Credit:
+http://davidsaiyan.blogspot.jp/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : vegetassgss
+Source Model Hash : 63ff0e5a8988a494cdd39e9860986c25
+Source Model Date : 1445405432 (2015/10/20)
+
+Ported Model Name : vegetassgss_v1sc
+Ported Model Hash : 85917ffe3344dda5547547e70094fa4c
+Ported Model Date : 1752492490 (2025/07/14)

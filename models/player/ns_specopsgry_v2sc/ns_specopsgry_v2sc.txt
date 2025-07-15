@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ns_specopsgry_v2
+Source Model Hash : b5304b0b5d80de5e7f486e0cdad697aa
+Source Model Date : 1583659915 (2020/03/08)
+
+Ported Model Name : ns_specopsgry_v2sc
+Ported Model Hash : fc955b0f9954bf4f58dfda5636a839b2
+Ported Model Date : 1752492104 (2025/07/14)

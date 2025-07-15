@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sonya
+Source Model Hash : 3a631c467b9b91162b188d92ecdf2a40
+Source Model Date : 1269931643 (2010/03/29)
+
+Ported Model Name : sonya_v1sc
+Ported Model Hash : ebb6141fc512dda96a0375d724e2895b
+Ported Model Date : 1752492296 (2025/07/14)

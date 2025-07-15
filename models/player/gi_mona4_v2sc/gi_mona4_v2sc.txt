@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_mona4_v2
+Source Model Hash : afac24508f295cc2f184a8152ce7cc79
+Source Model Date : 1700847551 (2023/11/24)
+
+Ported Model Name : gi_mona4_v2sc
+Ported Model Hash : 001c31418798e1ac36c875507192a233
+Ported Model Date : 1752491721 (2025/07/14)

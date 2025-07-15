@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tboi_samson
+Source Model Hash : 212fd6146236a279ab073816fe98d3ce
+Source Model Date : 1585701638 (2020/03/31)
+
+Ported Model Name : tboi_samson_v1sc
+Ported Model Hash : 9104737f228e4ca0e22eecf5b1b5ebc6
+Ported Model Date : 1752492395 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tango-vinnie
+Source Model Hash : c3c232ee233549831a33a613ad3322ed
+Source Model Date : 1230660222 (2008/12/30)
+
+Ported Model Name : tango-vinnie_v1sc
+Ported Model Hash : e69fb5402fc0fe7d23df12082966b393
+Ported Model Date : 1752492361 (2025/07/14)

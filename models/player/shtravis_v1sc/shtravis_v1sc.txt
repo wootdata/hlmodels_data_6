@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shtravis
+Source Model Hash : 37d2498d1e3b1a0246fa03ea7be08361
+Source Model Date : 1622973156 (2021/06/06)
+
+Ported Model Name : shtravis_v1sc
+Ported Model Hash : a30d69831334208e0e51058c45ab02c6
+Ported Model Date : 1752492273 (2025/07/14)

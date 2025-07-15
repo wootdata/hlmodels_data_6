@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nagato_nudie_v2
+Source Model Hash : 2c187c2dc1cb18da744db8bbfd3c7aca
+Source Model Date : 1671401340 (2022/12/18)
+
+Ported Model Name : nagato_nudie_v2sc
+Ported Model Hash : 4484b96b4433d160402dbbb341134c05
+Ported Model Date : 1752492058 (2025/07/14)

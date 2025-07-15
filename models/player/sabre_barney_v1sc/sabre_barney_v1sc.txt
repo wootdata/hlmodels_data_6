@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sabre_barney
+Source Model Hash : 73134dee242361be8ece16f5fdba4c69
+Source Model Date : 1269685603 (2010/03/27)
+
+Ported Model Name : sabre_barney_v1sc
+Ported Model Hash : bdba5770a314463faedb38f340a9f142
+Ported Model Date : 1752492231 (2025/07/14)

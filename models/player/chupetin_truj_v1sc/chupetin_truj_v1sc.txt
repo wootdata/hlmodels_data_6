@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : chupetin_truj
+Source Model Hash : e4df34b6f352edda5d2b335e9aa2fe24
+Source Model Date : 1609572702 (2021/01/01)
+
+Ported Model Name : chupetin_truj_v1sc
+Ported Model Hash : f6efae7a8c14a95825baf961a43de5e3
+Ported Model Date : 1752491475 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cultist2
+Source Model Hash : efc185b3d40591d7322b1cfb3f402f7b
+Source Model Date : 1268071472 (2010/03/08)
+
+Ported Model Name : cultist2_v1sc
+Ported Model Hash : 17b376923ba9cf307d6e2239607e7394
+Ported Model Date : 1752491569 (2025/07/14)

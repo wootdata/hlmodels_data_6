@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nekomimi_sc2_v2
+Source Model Hash : cd21597e5f74d6d451c880e838836a4f
+Source Model Date : 1583449829 (2020/03/05)
+
+Ported Model Name : nekomimi_sc2_v2sc
+Ported Model Hash : 12d1303659deeaad3afa791889b31219
+Ported Model Date : 1752492083 (2025/07/14)

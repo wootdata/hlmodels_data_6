@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : light
+Source Model Hash : c1a18bd5c26516f3abe2ae5575ea1f7d
+Source Model Date : 1565115649 (2019/08/06)
+
+Ported Model Name : light_v1sc
+Ported Model Hash : adccb2df3e0cf3c8a51de770b702b9a5
+Ported Model Date : 1752491951 (2025/07/14)

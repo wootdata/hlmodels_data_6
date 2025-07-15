@@ -1,0 +1,33 @@
+Original readme:
+
+...Unmasked Barney - Half-Life Model
+...---------------------------------
+...Modeler: PeRcY
+...Email: percy3000@gmx.net
+...ICQ # 89565962
+...
+...This is the barney without his stuff like the vest or the helmet..
+
+
+2008:
+Simple reskin inspired by an authorless user-made GTA:VC skin
+
+2009:
+Original unm_barney model onverted to 4.0b animations by Sven Co-op team (I simply swapped textures and renamed)
+
+-Marb750
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : herman_munster
+Source Model Hash : 9a5331d202eebaf6cfa2297180081c77
+Source Model Date : 1268834144 (2010/03/17)
+
+Ported Model Name : herman_munster_v1sc
+Ported Model Hash : 4afcb1d98add69f48e88df343a4fe2b9
+Ported Model Date : 1752491784 (2025/07/14)

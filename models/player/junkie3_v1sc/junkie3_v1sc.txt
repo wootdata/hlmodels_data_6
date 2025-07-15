@@ -1,0 +1,18 @@
+Junkie - a AHL contest submission.
+
+Created by eric.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : junkie3
+Source Model Hash : f60f433ef125ce88075494ac2e33aa26
+Source Model Date : 1256584794 (2009/10/26)
+
+Ported Model Name : junkie3_v1sc
+Ported Model Hash : 37d8bc026b94f5676433dea01522be97
+Ported Model Date : 1752491867 (2025/07/14)

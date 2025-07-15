@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : brave_v2
+Source Model Hash : 246f794014c8ca1c523b1fcbb0771f42
+Source Model Date : 1583789966 (2020/03/09)
+
+Ported Model Name : brave_v2sc
+Ported Model Hash : 642b4041d25407d12f07b326de2794ea
+Ported Model Date : 1752491446 (2025/07/14)

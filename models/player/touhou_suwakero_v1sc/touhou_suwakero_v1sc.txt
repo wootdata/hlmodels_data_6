@@ -1,0 +1,36 @@
+Credit:
+ modeling by Basilico
+ modified by Nano
+ smd converted by takedeppo.50cal ....(^^;)b yay
+
+///////////////////////////////////////////////////////////
+
+Basilico様のモデルを微改変したものになっています。
+主に帽子のサイズ、靴、服のイラスト(蛙)、首回りを少し変えました。
+諏訪子様かわいい。
+
+制作：Nano(なのさも)
+
+---------------------------------------
+お借りしたモデル
+
+GTASA用キャラMOD「洩矢諏訪子」
+
+製作者：Basilico 様
+http://genovse.blog13.fc2.com/
+---------------------------------------
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_suwakero
+Source Model Hash : 2d89c6e70fbbde629eb97141d66929ac
+Source Model Date : 1478444862 (2016/11/06)
+
+Ported Model Name : touhou_suwakero_v1sc
+Ported Model Hash : 4acfa7868e6132553e6de5028c6ae74b
+Ported Model Date : 1752492449 (2025/07/14)

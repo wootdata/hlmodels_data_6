@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pmarnie
+Source Model Hash : ea988783deb6281ab380167e717dbf9e
+Source Model Date : 1627983108 (2021/08/03)
+
+Ported Model Name : pmarnie_v1sc
+Ported Model Hash : 87cf8128740e6975aa3f9378c21b4040
+Ported Model Date : 1752492161 (2025/07/14)

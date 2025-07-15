@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : displady_red2
+Source Model Hash : daa5dc02cd7ab9a372a05fa944e4993d
+Source Model Date : 1696906252 (2023/10/09)
+
+Ported Model Name : displady_red2_v1sc
+Ported Model Hash : 59b75bac6fa20b76d079aba6ba9f467f
+Ported Model Date : 1752491599 (2025/07/14)

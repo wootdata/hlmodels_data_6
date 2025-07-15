@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : afterlife_bigboss
+Source Model Hash : 844f1e2b320b0814060d722705e7e137
+Source Model Date : 1483813340 (2017/01/07)
+
+Ported Model Name : afterlife_bigboss_v1sc
+Ported Model Hash : d08d3d64678c5341bab4eb37d9f0c4d7
+Ported Model Date : 1752491334 (2025/07/14)

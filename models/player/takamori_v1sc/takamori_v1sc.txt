@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : takamori
+Source Model Hash : e573aa2331d73394edf9c3192b1be1b1
+Source Model Date : 1375644476 (2013/08/04)
+
+Ported Model Name : takamori_v1sc
+Ported Model Hash : 2eda2d9ffa534ccfb8af71e283761274
+Ported Model Date : 1752492359 (2025/07/14)

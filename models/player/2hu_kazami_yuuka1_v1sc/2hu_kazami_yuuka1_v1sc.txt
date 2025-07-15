@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_kazami_yuuka_1
+Source Model Hash : 4813d86e3cd6901379813453dac3b986
+Source Model Date : 1456261569 (2016/02/23)
+
+Ported Model Name : 2hu_kazami_yuuka1_v1sc
+Ported Model Hash : f791f4be191f63229df7b32b1ebd793c
+Ported Model Date : 1752492439 (2025/07/14)

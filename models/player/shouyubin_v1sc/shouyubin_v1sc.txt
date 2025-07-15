@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : shouyubin
+Source Model Hash : 32d386b5ed592dd9111404e282b233ba
+Source Model Date : 1285152725 (2010/09/22)
+
+Ported Model Name : shouyubin_v1sc
+Ported Model Hash : dcd1395728ed564e6ec00b2da54181ca
+Ported Model Date : 1752492273 (2025/07/14)

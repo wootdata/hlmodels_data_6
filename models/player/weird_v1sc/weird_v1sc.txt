@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : weird
+Source Model Hash : c5b4918ea3f6a90a15beb1b3e7d9fd93
+Source Model Date : 1263409308 (2010/01/13)
+
+Ported Model Name : weird_v1sc
+Ported Model Hash : 8d0105e0bab0c6905dd0c0eb08bf5c80
+Ported Model Date : 1752492504 (2025/07/14)

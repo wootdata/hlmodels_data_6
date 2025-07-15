@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q2_nightops_v2
+Source Model Hash : 3860b3cde0f6e48cbcc2be24cce165c0
+Source Model Date : 1583376539 (2020/03/04)
+
+Ported Model Name : q2_nightops_v2sc
+Ported Model Hash : 7e7958383c19ffbfb418ebb182842cc2
+Ported Model Date : 1752492176 (2025/07/14)

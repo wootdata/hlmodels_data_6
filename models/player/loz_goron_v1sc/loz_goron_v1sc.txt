@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : loz_goron
+Source Model Hash : 68b3f10613ef31f34480688f2a5010ad
+Source Model Date : 1599078570 (2020/09/02)
+
+Ported Model Name : loz_goron_v1sc
+Ported Model Hash : d1f214818a0e44f97ecf46975e1ad107
+Ported Model Date : 1752491965 (2025/07/14)

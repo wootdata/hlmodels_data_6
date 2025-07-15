@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stick_orange
+Source Model Hash : 28f63caf9f45c605693317fea84a444f
+Source Model Date : 1413464320 (2014/10/16)
+
+Ported Model Name : stick_orange_v1sc
+Ported Model Hash : ca36916cf5af9edd1b32f1e16d2716bf
+Ported Model Date : 1752492346 (2025/07/14)

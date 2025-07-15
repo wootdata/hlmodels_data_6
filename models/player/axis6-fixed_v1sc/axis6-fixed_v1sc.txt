@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : axis6-fixed
+Source Model Hash : 849b621450879bd5c9f91787cd2fa1ea
+Source Model Date : 1612320136 (2021/02/02)
+
+Ported Model Name : axis6-fixed_v1sc
+Ported Model Hash : bfdc69f99ff8d3c9321dea72a83c0798
+Ported Model Date : 1752491391 (2025/07/14)

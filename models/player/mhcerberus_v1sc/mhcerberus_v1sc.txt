@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhcerberus
+Source Model Hash : 50c45241807d9b005bc48d41579d0f15
+Source Model Date : 1629041652 (2021/08/15)
+
+Ported Model Name : mhcerberus_v1sc
+Ported Model Hash : bb8b0bf5b46a3337d4c2fb8142f74337
+Ported Model Date : 1752492012 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ufocat_v2
+Source Model Hash : 94797d1ad758589b75e27fefb054d2ae
+Source Model Date : 1582961312 (2020/02/28)
+
+Ported Model Name : ufocat_v2sc
+Ported Model Hash : 5e7a28e4a360e391c7fd30423ecfa572
+Ported Model Date : 1752492471 (2025/07/14)

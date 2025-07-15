@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mynx_v2
+Source Model Hash : 3a567f8952e2b3bf68f336354d73a8c5
+Source Model Date : 1583457440 (2020/03/05)
+
+Ported Model Name : mynx_v2sc
+Ported Model Hash : 4133ca1bf84bd3adab9cae3c507c0e58
+Ported Model Date : 1752492056 (2025/07/14)

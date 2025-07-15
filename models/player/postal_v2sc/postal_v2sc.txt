@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : postal_v2
+Source Model Hash : ebc42cf0257020235523cfc01295e960
+Source Model Date : 1583384278 (2020/03/04)
+
+Ported Model Name : postal_v2sc
+Ported Model Hash : e001acca6fc4e3446f33715a4de35492
+Ported Model Date : 1752492163 (2025/07/14)

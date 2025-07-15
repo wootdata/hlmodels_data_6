@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bwtgs_sena_v2
+Source Model Hash : 0e32f5457b8ba4ed82d60548d80c0df1
+Source Model Date : 1563799352 (2019/07/22)
+
+Ported Model Name : bwtgs_sena_v2sc
+Ported Model Hash : e55624741f6054b275d7b06bc5b8073b
+Ported Model Date : 1752491456 (2025/07/14)

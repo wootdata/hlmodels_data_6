@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : martel
+Source Model Hash : 95ad9e5ee3b150ceaba6a5399f9d0c47
+Source Model Date : 1429564485 (2015/04/20)
+
+Ported Model Name : martel_v1sc
+Ported Model Hash : 586aef7ce03fe347fc1a15b551cf09da
+Ported Model Date : 1752491989 (2025/07/14)

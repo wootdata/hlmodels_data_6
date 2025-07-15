@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bu-n
+Source Model Hash : 9ea84af81a5301a5ece2fe16a35fe945
+Source Model Date : 1268074005 (2010/03/08)
+
+Ported Model Name : bu-n_v1sc
+Ported Model Hash : bca2873505ab1fd1dc1828680e0df0ce
+Ported Model Date : 1752491452 (2025/07/14)

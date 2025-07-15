@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tenshi_40k_sisters
+Source Model Hash : 2f7d92a76d3c24e51d6a873917d887f0
+Source Model Date : 1463876686 (2016/05/21)
+
+Ported Model Name : tenshi_40k_sis_v1sc
+Ported Model Hash : f8cdf1873b8f28b6c2ef2230a503dd07
+Ported Model Date : 1752492400 (2025/07/14)

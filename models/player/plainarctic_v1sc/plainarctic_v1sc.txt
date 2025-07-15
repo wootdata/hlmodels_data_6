@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : plainarctic
+Source Model Hash : f97855ccd597f99b10e339bd9f3ad7ed
+Source Model Date : 1041751816 (2003/01/04)
+
+Ported Model Name : plainarctic_v1sc
+Ported Model Hash : f71001145bc39386fe8d4528e1c727e5
+Ported Model Date : 1752492158 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : uk_mindflayer
+Source Model Hash : ff0ef58d588067c42a4ecc305a2c582f
+Source Model Date : 1730390668 (2024/10/31)
+
+Ported Model Name : uk_mindflayer_v1sc
+Ported Model Hash : 3728da76918e82cc842053088bf71efb
+Ported Model Date : 1752492474 (2025/07/14)

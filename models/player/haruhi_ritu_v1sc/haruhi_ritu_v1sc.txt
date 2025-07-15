@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : haruhi_ritu
+Source Model Hash : 3b114aeec3d67d4c5d97b7fc2ee67079
+Source Model Date : 1457220934 (2016/03/05)
+
+Ported Model Name : haruhi_ritu_v1sc
+Ported Model Hash : cc23511b274b40bae4b65160ce581c1a
+Ported Model Date : 1752491769 (2025/07/14)

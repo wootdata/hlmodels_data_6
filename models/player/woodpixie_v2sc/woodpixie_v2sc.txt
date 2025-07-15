@@ -1,0 +1,20 @@
+Thank you for downloading Wood Pixie, from Inkblot! This skin is based on 
+ccsakura. I don't much like card captors, but when I saw the model on cold 
+fusion, it was just screaming pixie at me. So this is my first, very hurried 
+try at this. I think I'll make a flower pixie next. E-mail me at 
+pendragon666@worldnet.att.net or rate my work on WON. Thank you.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : woodpixie_v2
+Source Model Hash : 9e4e5c6f159c30d508ad31ff0f63b18c
+Source Model Date : 1583114199 (2020/03/01)
+
+Ported Model Name : woodpixie_v2sc
+Ported Model Hash : 607b599ea9dde1f65f596ac442ae2224
+Ported Model Date : 1752492511 (2025/07/14)

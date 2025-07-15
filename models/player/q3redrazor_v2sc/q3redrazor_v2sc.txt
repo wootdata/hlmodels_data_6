@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : q3redrazor_v2
+Source Model Hash : 7e62955b7b0eaf643ed8da76cd9c8b81
+Source Model Date : 1583378123 (2020/03/04)
+
+Ported Model Name : q3redrazor_v2sc
+Ported Model Hash : 25efd2151c2842136068e6fa1ca4c8b7
+Ported Model Date : 1752492178 (2025/07/14)

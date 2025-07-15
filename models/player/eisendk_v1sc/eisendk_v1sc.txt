@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : eisendk
+Source Model Hash : 3794ba81054cc23b668fa0a8f141222e
+Source Model Date : 1444423630 (2015/10/09)
+
+Ported Model Name : eisendk_v1sc
+Ported Model Hash : ef7887a93ec999e09d803ee24aeb565d
+Ported Model Date : 1752491631 (2025/07/14)

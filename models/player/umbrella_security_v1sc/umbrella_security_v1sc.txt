@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : umbrella_security
+Source Model Hash : d65647e03587a01062073184b627dd6a
+Source Model Date : 1236277064 (2009/03/05)
+
+Ported Model Name : umbrella_security_v1sc
+Ported Model Hash : f68a6e7cdc78df1575eccc5a4d5c67bb
+Ported Model Date : 1752492476 (2025/07/14)

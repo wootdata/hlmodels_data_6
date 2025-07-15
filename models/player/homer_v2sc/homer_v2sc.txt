@@ -1,0 +1,35 @@
+Homer (Simpsons) -  Half-Life character  -  readme.txt
+March 9, 1999
+--------------------------------
+Character Stats:
+polys		807
+verts		441
+texture		256x256x256
+chrome		NO
+animation	Half-Life
+--------------------------------
+Character Info:
+This is Homer Simpson my favorite character from the simpsons
+He is a little high poly but those extra polies are there to
+keep his homieness.  I working on fixin his hands so be patient.
+--------------------------------
+
+Andy Dorizas	
+adorizas@inlandprod.com
+http://www.inlandprod.com
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : homer_v2
+Source Model Hash : 65fd563a84df306afeb31b17e63fc646
+Source Model Date : 1583893687 (2020/03/10)
+
+Ported Model Name : homer_v2sc
+Ported Model Hash : 06df07fe0b374c9fedc67a27873111d7
+Ported Model Date : 1752491827 (2025/07/14)

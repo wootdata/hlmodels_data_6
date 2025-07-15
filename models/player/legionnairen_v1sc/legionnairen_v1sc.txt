@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : legionnairen
+Source Model Hash : 0b68a7249473b4a29865b6095a7e7218
+Source Model Date : 1264015951 (2010/01/20)
+
+Ported Model Name : legionnairen_v1sc
+Ported Model Hash : ae3a8b46397331d481c15e8057558a3d
+Ported Model Date : 1752491946 (2025/07/14)

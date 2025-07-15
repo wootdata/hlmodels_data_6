@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nr_okuu_wings_folded
+Source Model Hash : 81a77d060217fb18ff492e914becb1e0
+Source Model Date : 1471415159 (2016/08/16)
+
+Ported Model Name : nr_okuu_wings2_v1sc
+Ported Model Hash : c3800ba6b482f87c1d24458c542de182
+Ported Model Date : 1752492103 (2025/07/14)

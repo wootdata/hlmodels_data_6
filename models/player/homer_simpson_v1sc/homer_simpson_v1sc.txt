@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : homer_simpson
+Source Model Hash : d89c4413aa86ad66085bef5ddf6d4bc2
+Source Model Date : 1590814866 (2020/05/29)
+
+Ported Model Name : homer_simpson_v1sc
+Ported Model Hash : bb94356a23d6c0b2c4eb7b59ad32f3e3
+Ported Model Date : 1752491827 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_umbrella_alfred_v2
+Source Model Hash : 159a57fc878409d460160783ae0c2121
+Source Model Date : 1583727869 (2020/03/08)
+
+Ported Model Name : re_umb_alfred_v2sc
+Ported Model Hash : 66eb1fc2b2fb78506c9ab4c06accd8c5
+Ported Model Date : 1752492214 (2025/07/14)

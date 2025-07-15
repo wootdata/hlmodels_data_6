@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dmz_cell2
+Source Model Hash : 4127e1df4dc379f8179ac5b3b88bc6bd
+Source Model Date : 1237589364 (2009/03/20)
+
+Ported Model Name : dmz_cell2_v1sc
+Ported Model Hash : 02aa7ec7299238d2ba6b582c22d1ddcc
+Ported Model Date : 1752491604 (2025/07/14)

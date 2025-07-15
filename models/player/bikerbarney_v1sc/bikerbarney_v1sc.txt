@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bikerbarney
+Source Model Hash : 12b2923a035a48f364c14d493de5e1d2
+Source Model Date : 1267804526 (2010/03/05)
+
+Ported Model Name : bikerbarney_v1sc
+Ported Model Hash : e32cbc9348f69702744f6f336168f7aa
+Ported Model Date : 1752491429 (2025/07/14)

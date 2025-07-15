@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csw_arctic_new
+Source Model Hash : 9dc478d428846ddcdb449da724a12150
+Source Model Date : 1496689626 (2017/06/05)
+
+Ported Model Name : csw_arctic_new_v1sc
+Ported Model Hash : 022f224b18b8c0b125b1d1f22ee1af60
+Ported Model Date : 1752491560 (2025/07/14)

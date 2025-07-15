@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_sucrose_v2
+Source Model Hash : 842555c0be9279e1f9dc7b7501ab5ed1
+Source Model Date : 1701335280 (2023/11/30)
+
+Ported Model Name : gi_sucrose_v2sc
+Ported Model Hash : ed258021d57eb735fb883618be7c2e67
+Ported Model Date : 1752491725 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dod_axis_2_vo
+Source Model Hash : 095d2822a4f267c866e35cbf8e55a5c6
+Source Model Date : 1702153748 (2023/12/09)
+
+Ported Model Name : dod_axis_2_vo_v1sc
+Ported Model Hash : 5e8627897da362259af906b6258ddec3
+Ported Model Date : 1752491613 (2025/07/14)

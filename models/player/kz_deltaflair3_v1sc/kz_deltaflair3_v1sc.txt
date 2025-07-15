@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kz_deltaflair_alt2
+Source Model Hash : 352378f06f36cd25a0c4dc291ce16292
+Source Model Date : 1707250892 (2024/02/06)
+
+Ported Model Name : kz_deltaflair3_v1sc
+Ported Model Hash : b05838abdd66b7f928ed1bc1d5303237
+Ported Model Date : 1752491916 (2025/07/14)

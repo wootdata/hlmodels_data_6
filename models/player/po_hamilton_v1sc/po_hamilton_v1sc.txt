@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : po_hamilton
+Source Model Hash : 3a73b9dc968a171caa1d37496ff03d6d
+Source Model Date : 1497387361 (2017/06/13)
+
+Ported Model Name : po_hamilton_v1sc
+Ported Model Hash : 2c8adacebe43b7f9797d8defc650dfd5
+Ported Model Date : 1752492165 (2025/07/14)

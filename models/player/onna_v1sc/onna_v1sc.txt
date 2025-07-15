@@ -1,0 +1,33 @@
+Onna Model by White Dragon  2/28/99 <rapidly approaching 2/29/99 >
+
+Just unzip into the players/onna directory and have fun.
+
+A brand new model of a cute anime style character.  I think this is
+the first player model to have a resized biped <thus allowing the
+shoulders to be in the right place> Hope you all enjoy it. I also
+changed one death sequence just for fun! :)
+
+I didn't add in team colors in this version. I hope to do it in my next model.
+
+If any of you are wondering the kanji on the front of her shirt 
+Is onna, <means woman>.
+
+For comment's, How-To's and requests e-mail
+wdragon@goldcom.com or visit
+http://www.deadpresidents.com
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : onna
+Source Model Hash : b1f3c5e4baef0abe3fc1ad05f7cb81ad
+Source Model Date : 1264757998 (2010/01/29)
+
+Ported Model Name : onna_v1sc
+Ported Model Hash : 33452f0bffade0b40c901e23b7bec6e3
+Ported Model Date : 1752492117 (2025/07/14)

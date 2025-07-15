@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dc_ball
+Source Model Hash : 40ecd0b8238cb6d06f13158fa3d972a3
+Source Model Date : 1266934937 (2010/02/23)
+
+Ported Model Name : dc_ball_v1sc
+Ported Model Hash : 642ed888de958e439b8ef30697d54fc1
+Ported Model Date : 1752491590 (2025/07/14)

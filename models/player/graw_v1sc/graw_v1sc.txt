@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : graw
+Source Model Hash : 672c75454beb8900a9816f277f331658
+Source Model Date : 1265222650 (2010/02/03)
+
+Ported Model Name : graw_v1sc
+Ported Model Hash : c76bd07b2793b86012db5d1d5a75b310
+Ported Model Date : 1752491737 (2025/07/14)

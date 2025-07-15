@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usn]hm2_wilkes
+Source Model Hash : e97903fce781ff467efd2baf1b78fab9
+Source Model Date : 1542089802 (2018/11/12)
+
+Ported Model Name : [usn]hm2_wilkes_v1sc
+Ported Model Hash : a4f561d3281f95e321a6c76e51145da2
+Ported Model Date : 1752492542 (2025/07/14)

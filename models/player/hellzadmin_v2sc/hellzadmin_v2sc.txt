@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hellzadmin_v2
+Source Model Hash : 21364e0966cd2cd230b79fa27410ab94
+Source Model Date : 1583890890 (2020/03/10)
+
+Ported Model Name : hellzadmin_v2sc
+Ported Model Hash : 201e8e914207f7d5d0f3848abbf67d84
+Ported Model Date : 1752491782 (2025/07/14)

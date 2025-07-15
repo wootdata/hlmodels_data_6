@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_hdn_blanc-school
+Source Model Hash : a449e51906fd5f5a3aa1c53dad6db964
+Source Model Date : 1553775994 (2019/03/28)
+
+Ported Model Name : 2d_hdn_blanc-scho_v1sc
+Ported Model Hash : 40502de6288a289de8fc3d73c261a194
+Ported Model Date : 1752491309 (2025/07/14)

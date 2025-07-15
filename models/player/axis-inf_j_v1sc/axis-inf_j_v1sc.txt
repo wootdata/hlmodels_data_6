@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : axis-inf_j
+Source Model Hash : 8d3a49e94cea7a93382d3a0e473e4c00
+Source Model Date : 1263870554 (2010/01/18)
+
+Ported Model Name : axis-inf_j_v1sc
+Ported Model Hash : 4f42c95f807ad728ad979832b2f5e079
+Ported Model Date : 1752491390 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : supersim
+Source Model Hash : 7ec725802c25a617d386c6b15ff397ed
+Source Model Date : 1270018605 (2010/03/30)
+
+Ported Model Name : supersim_v1sc
+Ported Model Hash : 6278a564e9ab91015ca03dfcde7a2056
+Ported Model Date : 1752492351 (2025/07/14)

@@ -1,0 +1,39 @@
+All Aliens made by LordTopaz
+
+
+
+Credits
+
+Valve- Animations, skeleton, game, software
+
+Me(LordTopaz- Mesh/model, Texture, unwraping
+
+DO YOU GUYZ LOVE ALIENS??? WELL THEN YOU HAVE DONE WELL BY PICKING
+UP THIS PACK!
+
+THIS PACK IS FULL OF ALIENS BENT ON WORLD DOMINATION!!!!
+
+CAN THE CTS DEFEND THE EARTH OR WILL THE ALIENS TAKE OVER!!!
+
+
+ENJOY!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Plz tell me if there is a problem by emailing me or just tell me 
+what you think :)
+
+email : ijb_b_s_4@hotmail.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alienteam1
+Source Model Hash : 68307dbb2411689019d75510b871a989
+Source Model Date : 1352657062 (2012/11/11)
+
+Ported Model Name : alienteam1_v1sc
+Ported Model Hash : e4293db7fd199c6c954e6a766f458324
+Ported Model Date : 1752491353 (2025/07/14)

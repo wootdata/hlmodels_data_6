@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alien
+Source Model Hash : fd1a8b0a56db52782f779ec9182f64fc
+Source Model Date : 1424202384 (2015/02/17)
+
+Ported Model Name : alien_v1sc
+Ported Model Hash : c54cff10bba5b99fd57e7e62b1a6ac45
+Ported Model Date : 1752491352 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : milos
+Source Model Hash : e9333350acaedf1eb0dac269af08e604
+Source Model Date : 1549733636 (2019/02/09)
+
+Ported Model Name : milos_v1sc
+Ported Model Hash : 9bd5ab0fd6d5f7dc9e97d4b6dc5322bc
+Ported Model Date : 1752492026 (2025/07/14)

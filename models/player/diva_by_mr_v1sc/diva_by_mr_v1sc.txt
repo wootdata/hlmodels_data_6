@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : diva_by_mr
+Source Model Hash : 168eb013a06d788d97b29bb48acf9dc7
+Source Model Date : 1633234936 (2021/10/02)
+
+Ported Model Name : diva_by_mr_v1sc
+Ported Model Hash : e12f6f5e3c53952b1271c8852ba65ebd
+Ported Model Date : 1752491601 (2025/07/14)

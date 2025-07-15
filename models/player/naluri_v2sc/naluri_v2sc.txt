@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : naluri_v2
+Source Model Hash : afc697a9d24b490511b3beb344d3c847
+Source Model Date : 1584060645 (2020/03/12)
+
+Ported Model Name : naluri_v2sc
+Ported Model Hash : 1ed7eb5328ddc9ffdb508e9f4be5956c
+Ported Model Date : 1752492066 (2025/07/14)

@@ -1,0 +1,24 @@
+Jack In the Box
+
+Based on Valve's G-man model, but tweaked in MilkShape.
+The Skin is kinda weak but... oh well. Dig the hat!
+
+
+
+PunkAss
+christopher@creth.com
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : jack1
+Source Model Hash : c170a3bdbb61d2633ebb121450074dc7
+Source Model Date : 1590135644 (2020/05/22)
+
+Ported Model Name : jack1_v1sc
+Ported Model Hash : 1e240d5b7ff2d9a61797f34e70248e72
+Ported Model Date : 1752491856 (2025/07/14)

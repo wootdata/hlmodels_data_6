@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : leon_sudamerica
+Source Model Hash : 82cceae346f753cc1e6f87475096e98a
+Source Model Date : 1422939298 (2015/02/02)
+
+Ported Model Name : leon_sudamerica_v1sc
+Ported Model Hash : cf64cad5969ee055e23de24f34df10b9
+Ported Model Date : 1752491950 (2025/07/14)

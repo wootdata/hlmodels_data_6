@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : buttman
+Source Model Hash : b2ef5d2e14b87657539a4082804b52ce
+Source Model Date : 1235927708 (2009/03/01)
+
+Ported Model Name : buttman_v1sc
+Ported Model Hash : 80584711c954c2fd58b391e4145c7849
+Ported Model Date : 1752491456 (2025/07/14)

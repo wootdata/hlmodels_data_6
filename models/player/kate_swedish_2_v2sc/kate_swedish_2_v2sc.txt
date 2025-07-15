@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kate_swedish_2_v2
+Source Model Hash : 64dcd09cc9d483619c342e5253cda896
+Source Model Date : 1523990887 (2018/04/17)
+
+Ported Model Name : kate_swedish_2_v2sc
+Ported Model Hash : a63c91ed29e66d12af90ef0e6c3657a8
+Ported Model Date : 1752491873 (2025/07/14)

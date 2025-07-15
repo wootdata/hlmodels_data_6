@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : agent_3
+Source Model Hash : 0eec13b3b221d2a045d0ffbe24be29cf
+Source Model Date : 1579695355 (2020/01/22)
+
+Ported Model Name : agent_3_v1sc
+Ported Model Hash : e7aa22e1ee056f6c9b074e583aa06dae
+Ported Model Date : 1752491338 (2025/07/14)

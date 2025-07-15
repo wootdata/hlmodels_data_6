@@ -1,0 +1,35 @@
+###THIS FILE HAS BEEN LEECHED FROM THE HIT FORUM####
+
+Whaddya Get:
+
+(2) Drop Dead Babes from Action Half-Life..
+*Ladydeath (a.k.a Goth Croft) 
+Lara's demented half sister high on speed 
+and over sexed.
+*Babewire (a.k.a Don't call me bitch)
+A bad ass Blonde with an attitude problem.
+
+Original Author:
+Some dude on the AHL Team I spose ?
+Re-Animated to SC3 by a lazy LaggedRabbit
+
+
+-----------------
+babewire_fix.txt
+-----------------
+Fix for Sven-coop 5.0 by Python : remove walking T pose, and new idle animation.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : babewire_v2
+Source Model Hash : 1e093176c4133378ce46e589122f4309
+Source Model Date : 1509800432 (2017/11/04)
+
+Ported Model Name : babewire_v2sc
+Ported Model Hash : a21c788eae616ba7e12255bc255742c9
+Ported Model Date : 1752491396 (2025/07/14)

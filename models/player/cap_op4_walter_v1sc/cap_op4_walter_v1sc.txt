@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cap_op4_walter
+Source Model Hash : 33b35e8c553acc63980f650d05fe0d1f
+Source Model Date : 1454169328 (2016/01/30)
+
+Ported Model Name : cap_op4_walter_v1sc
+Ported Model Hash : 9c05b27b3949ba196c48ff4ebe9086e5
+Ported Model Date : 1752491462 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dbg_vegetasjj5
+Source Model Hash : 6f7bf49aa0b35f284d938dd765a44d75
+Source Model Date : 1612911773 (2021/02/09)
+
+Ported Model Name : dbg_vegetasjj5_v1sc
+Ported Model Hash : b2e34929c275008fab99fda3d9ceb0f8
+Ported Model Date : 1752491589 (2025/07/14)

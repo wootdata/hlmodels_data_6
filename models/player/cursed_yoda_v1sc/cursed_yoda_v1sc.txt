@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cursed_yoda
+Source Model Hash : 7ea90423d299e9e1375c50e7567f3325
+Source Model Date : 1588636326 (2020/05/04)
+
+Ported Model Name : cursed_yoda_v1sc
+Ported Model Hash : b0eac2d3cc4071a722f7270951b2d52f
+Ported Model Date : 1752491569 (2025/07/14)

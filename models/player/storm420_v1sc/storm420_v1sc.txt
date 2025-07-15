@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : storm420
+Source Model Hash : 63b08a99b9c6c81c06f9d4972e0026b6
+Source Model Date : 1591328469 (2020/06/04)
+
+Ported Model Name : storm420_v1sc
+Ported Model Hash : 60691196b9328dddcf264090183902f1
+Ported Model Date : 1752492347 (2025/07/14)

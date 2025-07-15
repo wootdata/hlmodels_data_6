@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : =$irens=oz_v2
+Source Model Hash : 9706f8f3a4f7e6357684e0f90e313855
+Source Model Date : 1583481925 (2020/03/06)
+
+Ported Model Name : =$irens=oz_v2sc
+Ported Model Hash : 230f64467bc4ec3c357b91c160f267ca
+Ported Model Date : 1752491325 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tdh_coffee
+Source Model Hash : 59d58809c87ab62920c7b8811ce2561b
+Source Model Date : 1706450999 (2024/01/28)
+
+Ported Model Name : tdh_coffee_v1sc
+Ported Model Hash : 40364d911a556ac7935f48710adc62c1
+Ported Model Date : 1752492397 (2025/07/14)

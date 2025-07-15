@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_alice_v2
+Source Model Hash : 9099e6b63d23e2bca87690eab8df3c86
+Source Model Date : 1522355562 (2018/03/29)
+
+Ported Model Name : touhou_alice_v2sc
+Ported Model Hash : 385a688608fa514b7418ab4391caf292
+Ported Model Date : 1752492433 (2025/07/14)

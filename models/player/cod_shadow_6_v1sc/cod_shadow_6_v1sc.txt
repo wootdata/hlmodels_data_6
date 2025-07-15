@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cod_shadow_6
+Source Model Hash : 686ed589b58293b89b63dce72b5e65b2
+Source Model Date : 1683041824 (2023/05/02)
+
+Ported Model Name : cod_shadow_6_v1sc
+Ported Model Hash : a5a9ef31c8ee5a1ac562f0b644cc40a2
+Ported Model Date : 1752491500 (2025/07/14)

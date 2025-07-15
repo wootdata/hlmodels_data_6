@@ -1,0 +1,28 @@
+Credits:
+Chubby model and skin : Valve and Sven-Coop
+	-Improvements by ooppee
+Crown model: Sven-Coop
+ID model and skin: Gearbox and Ambient.Impact
+	-Skin changes by Mr. Shoe
+Santa Claus: SpasticChild
+Santa Claus skin: I don't know
+	-Changes by Mr. Shoe
+
+Instructions:
+Unzip this to your models folder. If you can't find it, and have been coming to HIT,
+then you're an idiot.
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mrshoe
+Source Model Hash : 4b016dcfa6efd813af0924294b7c8d97
+Source Model Date : 1429786105 (2015/04/23)
+
+Ported Model Name : mrshoe_v1sc
+Ported Model Hash : f8b9de84e71dedc7103b1130288a646a
+Ported Model Date : 1752492046 (2025/07/14)

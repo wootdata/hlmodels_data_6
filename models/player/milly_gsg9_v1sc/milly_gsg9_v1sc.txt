@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : milly_gsg9
+Source Model Hash : e1a2732cf113c55f6306421bf8fc36b1
+Source Model Date : 1266671878 (2010/02/20)
+
+Ported Model Name : milly_gsg9_v1sc
+Ported Model Hash : 4d4c03a08a09d90480f8f6492aa6f02b
+Ported Model Date : 1752492025 (2025/07/14)

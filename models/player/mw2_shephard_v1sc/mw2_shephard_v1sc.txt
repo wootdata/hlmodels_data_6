@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mw2_shephard
+Source Model Hash : 8e10580ee308106e95b4b75aca88e910
+Source Model Date : 1281965562 (2010/08/16)
+
+Ported Model Name : mw2_shephard_v1sc
+Ported Model Hash : a8778e6c478ab47072aa3a5f25606a14
+Ported Model Date : 1752492054 (2025/07/14)

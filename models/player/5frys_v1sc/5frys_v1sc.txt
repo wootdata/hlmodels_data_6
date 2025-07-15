@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 5frys
+Source Model Hash : 50c94dee83ac61a9d126ddd6f7ebb0ca
+Source Model Date : 1590369371 (2020/05/24)
+
+Ported Model Name : 5frys_v1sc
+Ported Model Hash : 27d96e8cec2539a12c615bd8fe1761e4
+Ported Model Date : 1752491324 (2025/07/14)

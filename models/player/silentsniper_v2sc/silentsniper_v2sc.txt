@@ -1,0 +1,26 @@
+SilentSniper Player Model V.3
+
+Barney/Hev Hack by jAbutin
+Knife model By Gearbox
+Chubby by ooppee
+Arm Hacks by Panzer0X
+
+Barney HEV skins by SilentSniper
+
+Http://funzonesc.com
+-SilentSniper (SilentSniper56@yahoo.com)
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : silentsniper_v2
+Source Model Hash : a6221dc7968e63c08e35aaadc5c301b3
+Source Model Date : 1269860558 (2010/03/29)
+
+Ported Model Name : silentsniper_v2sc
+Ported Model Hash : f4a34094d15397b797ef970aabf9a146
+Ported Model Date : 1752492276 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : euphoricmush
+Source Model Hash : dd293f370878468321954b669ce26d0b
+Source Model Date : 1458021097 (2016/03/14)
+
+Ported Model Name : euphoricmush_v1sc
+Ported Model Hash : 330f5eeb11825826e52b39346096d11e
+Ported Model Date : 1752491639 (2025/07/14)

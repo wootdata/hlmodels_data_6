@@ -238,7 +238,7 @@
 			"type": 8
 		}
 	],
-	"date": 1758223618,
+	"date": 1758225745,
 	"events": [
 		{
 			"event": 5004,
@@ -892,7 +892,7 @@
 	"modid": 0,
 	"name": "Miko.mdl",
 	"preview": false,
-	"readme": false,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{

@@ -1,0 +1,72 @@
+<-- Theses models were created by Ixnay --  Ixnay@giga4u.de --- www.matze.privat.ms -->
+
+
+Game:		Half-Life Multiplayer
+Name: 		Ku-Klux-Klan models
+Author:		Matthias 'IXNAY' Wilke
+E-Mail:		Ixnay@giga4u.de
+Homepage:	www.matze.privat.ms
+Date:		05.10.1999
+
+
+
+ _______________________________________________________________
+/							      	\
+| REMEBER: I DON'T AGREE WITH THEM, I ONLY WANTED TO SHOOT THEM |
+\_______________________________________________________________/
+
+
+
+about it:
+---------
+This are some KKK models, three playermodels, one weaponmodel and some logos. It's funny
+to kick the ass of these christs, I prefer my or Scarecrows Sword or the Basebal Bat of Xurn.
+But all the other weapons are good to kill these stupid idiots. ANARCHIE FOR THE UK !!!
+ 
+
+MODLES:
+
+1.) The red leader
+2.) Ku-Klux-Knight
+3.) White with a red cruzifix
+4.) KKK Teamcolours: (not in this ZIP file)
+teamcolours (if you want to have him, mail me, I have already maked him)
+
+crowbar:
+a cruzifix
+
+
+LOGOS:
+Some logos for all the racist people out there (not me !!!).
+KKK3.bmp:
+Do you know what this is ??? Yes mail your opinion !!!
+If you want to know, mail me !!!
+
+SOUNDS:
+I had to kill many people to record these realistic sounds (haha)
+
+
+Reason:
+-------
+I watched the movie "The Jury" with Sandra Bullock and there I saw the KKK and at the next day, 
+when I was sitting at school in the phyiscs lesson the idea of the models came to me.  
+
+
+Installation:
+-------------
+Just unzip this zip file into your Half-Life\valve\ directory and run the game.
+
+
+Copyright:
+----------
+You can burn this files on CD or copy them how much as you like to. But you have to include this
+textfile and the www.matze.privat.ms URL.
+
+
+MAIL ME & VISIT MY HOMEPAGE !!!
+
+
+| \  / |  |  /\  \   /
+|  \/  |\ | |  |  \_/
+|  /\  | \| |--|   |
+| /  \ |  | |  |   |

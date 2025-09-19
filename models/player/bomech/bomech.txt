@@ -1,0 +1,12 @@
+Skinner: SlimReapeR
+Skin Name: Bomech
+Model Used: Punisher by Brian "EvilBastard" Collins
+Textures: Some Q3 Textures used
+
+Installation of Plugin
+
+Create a folder called bomech in your half-life/valve/models/player folder.
+Extract all files into this new folder.
+
+Http://www.slimreaper.co.uk
+mail: slimreaper@slimreaper.co.uk

@@ -1,0 +1,71 @@
+THEY HUNGER MULTIPLAYER MODEL PACK #2
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Modeler/Skinner:        Jack Cooper
+E-mail Address:         cooper@scoast.net
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+This pack is the second in a series of three (it may go to four)
+that will parallel the THEY HUNGER episodes with multiplayer
+models of the characters from our game.
+
+This model pack contains several of the characters from
+episode 2 of THEY HUNGER.  It also contains the main
+project development team, as a joke :)
+
+All these models are based on my original Single Player
+models, which were either completely new or based on
+Half-Life itself.
+
+Models included:
+
+- Airline Pilot (Dave Waters)
+- Dr. Einar
+- Dr. Franklin
+- Gangster (Jack Cooper)
+- NYPD Cop
+- Orderly
+- Patient
+- Worker (Neil Manke)
+- Zork
+
+NOTE: No models in this pack currently support team colors,
+      sorry for any inconvienance this may cause.
+
+NOTE2: If you review any of these models, please notify me
+       with a link to your review :)
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Thanks to
+		* Neil, Dave, Bill, Paul, Magnus, & Dr. Einar!
+		* Otis [aka Frans Bouma] for 'MdlViewer'
+		* Chumbalum-soft for Milkshape 3d
+		* The folks that made Paint Shop Pro
+		* Scarecrow and Bamphalas for much needed advice
+		* and of course! Sierra, Valve and Id Software!!!
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+"HOW TO RUN"
+------------
+
+Unzip file into C:\SIERRA\HALF-LIFE\VALVE\MODELS\PLAYER\ folder
+(or any other game directory of you choice), keeping directory
+structure intact.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+* Model information *
+
+Base                    : My THEY HUNGER Single Player models
+
+Tools used              : Milkshape 3d, Dos prompt, studiomdl,
+                          Paint Shop pro 5.0, Notepad, Windows
+                          Explorer
+
+Disclaimer              : Please refrain from using these models
+                          as bases for your own without gaining
+                          my permission first.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+For additional information about THEY HUNGER:
+http://www.planethalflife.com/manke/

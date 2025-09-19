@@ -1,0 +1,27 @@
+Chrome Deathmatch Model V2.0
+By Ninja Monkey - Thanks to Phlash for the idea!
+
+The version number has jumped up a whole one because of the "huge advancement" in skinning technology   :)   I think you will find this is a great improvement on the previous Chrome Robot Grunt model because I have replaced all the textures with the shiny chrome texture, thanks to the inspiration I got from Phlash's Silver Helmeted player model, so I have to give him a lot of credit!
+
+
+Place the folder called "chromev2" in the
+
+\sierra\half-life\valve\models\player folder.
+
+The .mdl file is the model you will see during play.  The .bmp file is
+necessary for the model to be selectable via the launcher interface.  For
+a player model to be visible to all clients playing, it must be installed on
+the server for it to propogate to all playing clients.
+
+When a model is downloaded from the game server, it does not download the
+.bmp file necessary for selecting the model in the interface: models must be
+deliberately installed by the player.
+
+
+I am available to take on skinning challanges (if I think the idea is good, and original enough).
+so please E-Mail me at
+ben.irwin@paston.co.uk
+
+For the best Half-Life levels, models, skins, and information on the forthcoming M.M.M mod (Monkey Multipayer Mod), and most importantly Snarks, come to Phoenix Software.
+NOTE:	We have moved!  We are now hosted by Atomic Half Life which means unlimited web space and no end to all the files that will be posted with an honest (but short) review.
+http://halflife.gameplex.net/phoenix/

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : seph
+Source Model Hash : 3223ac02e0cbf5c72f6a3328dccf48be
+Source Model Date : 1772716160 (2026/03/05)
+
+Ported Model Name : seph_v1sc
+Ported Model Hash : 529b7886a6279f6eaecc6b5fd1018392
+Ported Model Date : 1780823047 (2026/06/07)

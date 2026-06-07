@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : renamon_te_r
+Source Model Hash : 05d013e4ab9355364f353f8c1bfe238d
+Source Model Date : 1779857399 (2026/05/26)
+
+Ported Model Name : renamon_te_r_v1sc
+Ported Model Hash : 5222d788048780ad1bb40288da0a4433
+Ported Model Date : 1780823047 (2026/06/07)
